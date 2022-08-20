@@ -34,3 +34,5 @@ def BitmapHoles(strArr):
             flag = True
             
     return hole_count
+a=BitmapHoles(["01111","01101","00011","11110"])
+print(a)
